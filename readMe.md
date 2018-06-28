@@ -22,5 +22,6 @@ Tomcat:8.5
        pages:页面相关 (以功能模块进行文件分隔操作)
        resources:资源(js,css,img)
        upload:文件上传目录
+       ....
           
           
